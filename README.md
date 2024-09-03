@@ -10,8 +10,7 @@ A module to enhance aiming precision in games by optimizing touch sensitivity an
 
 ## Download
 You can download the module from the link below:
-- [Download Aim Control Module v1.0](https://github.com/23DEVV/AimControlMagisk/releases/download/AimControl/Aim.Control.Module1.0.zip)
-
+- [Download Aim Control Module v1.0](https://github.com/23DEVV/AimControlMagisk/releases/download/AimControl/Aim.Control.Module.1.0.zip)
 ## Installation
 1. Download the `.zip` file from the link above.
 2. Open Magisk Manager on your device.

@@ -1,33 +1,27 @@
 # Aim Control Module
 
-## About
-A module to enhance aiming precision in games by optimizing touch sensitivity and reducing input latency, without altering screen DPI settings.
+## Overview
 
-## Features
-- Adjusts pointer speed for enhanced aiming control.
-- Reduces touch input latency for quicker responses.
-- Maintains current screen DPI settings.
+The Aim Control Module improves aiming precision in games by calibrating the crosshair. There are two versions of this module available:
 
-## Download
-You can download the module from the link below:
-- [Download Aim Control Module v1.0](https://github.com/23DEVV/AimControlMagisk/releases/download/AimControl/Aim.Control.Module.1.0.zip)
+1. **Version without DPI Adjustment**: This version calibrates the crosshair for better aiming precision. You can download it [here](https://github.com/23DEVV/AimControlMagisk/releases/download/AimControl/Aim.Control.Module.1.0.zip).
+
+2. **Version with DPI Adjustment**: This version includes DPI adjustment in addition to crosshair calibration for enhanced accuracy. Download it [here](https://github.com/23DEVV/AimControlMagisk/releases/download/AimControldpi/Aim.Control.Module1.0.DPI.zip).
+
 ## Installation
-1. Download the `.zip` file from the link above.
+
+1. Download the appropriate ZIP file for your needs.
 2. Open Magisk Manager on your device.
 3. Go to the "Modules" section.
-4. Select "Install from storage" and choose the downloaded `.zip` file.
-5. Reboot your device.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Credits
-- **23devv**: [https://github.com/23DEVV](https://github.com/23DEVV) – Creator of this module.
-- **Magisk Manager**: [https://github.com/topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)
+4. Install the ZIP file.
+5. Reboot your device to apply the changes.
 
 ## Support
+
 For support, visit: [https://github.com/23DEVV](https://github.com/23DEVV).
 
-## Follow
-- [Follow me on X](https://x.com/23devv)
+## Credits
+
+- **Magisk**: [Magisk Manager](https://github.com/topjohnwu/Magisk)
+- **Module Developer**: 23devv ([23devv](https://x.com/23devv)
 

@@ -20,8 +20,8 @@ The Aim Control Module improves aiming precision in games by calibrating the cro
 
 For support, visit: [https://github.com/23DEVV](https://github.com/23DEVV).
 
-## Credits
+## Credits:
 
 - **Magisk**: [Magisk Manager](https://github.com/topjohnwu/Magisk)
-- **Module Developer**: 23devv ([23devv]https://x.com/23devv)
+- **Module Developer**: [23devv](https://x.com/23devv)
 

@@ -21,7 +21,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Credits:
 - **23devv**: [https://github.com/23DEVV](https://github.com/23DEVV) – Creator of this module.
-- **Magisk Manager**: [https://github.com/topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) – Essential tool for managing modules on rooted Android devices.
+- **Magisk Manager**: [https://github.com/topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) 
 
 ## Support
 For support, visit: [https://github.com/23DEVV](https://github.com/23DEVV).

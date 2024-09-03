@@ -26,10 +26,16 @@ The **Aim Control Module** enhances your aiming experience in mobile games by ke
 3. **Reboot Your Device**:
    After installation, reboot your device to apply the changes.
 
+## Follow!
+
+
+
+[Follow 23devv on X](https://x.com/23devv)
+
 ## Credits
 
 - **Module Creator**: 23devv
-- **Tool Used**: [Magisk Manager](https://topjohnwu.github.io/Magisk/)
+- **Magisk Manager**: [Magisk Manager](https://topjohnwu.github.io/Magisk/)
 
 ## License
 
@@ -39,5 +45,3 @@ This module is licensed under the MIT License. See the [LICENSE](LICENSE) file f
 
 - Developed by 23devv.
 - For any issues or feature requests, please open an issue on the [GitHub repository](https://github.com/23DEVV/AimControlMagisk/issues).
-
-

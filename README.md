@@ -1,47 +1,39 @@
-# Aim Control Module
+# AimControlMagisk
 
-## Description
+**AimControlMagisk** is a module designed to improve touch-based aim control in games by preventing the aim from exceeding the head.
 
-The **Aim Control Module** enhances your aiming experience in mobile games by keeping the crosshair precisely aligned with the target. It ensures that the crosshair does not move past the head of the target, improving your shooting accuracy.
+## Version 1.1 Update
 
-## Features
-
-- **Accurate Calibration**: Ensures the crosshair stays on target.
-- **Magisk Compatibility**: Supports Magisk version 26.1 and above.
-- **Easy Installation**: Simple to install via Magisk Manager.
+### New Features:
+- **Enhanced Touch Sensitivity**: Improved touch response to make aiming more precise.
+- **Optimizations**: Adjustments and improvements for better overall performance.
+- **Compatibility**: Updated for better compatibility with recent versions of Magisk.
 
 ## Installation
 
-1. **Download the Module**:
-   Click the button below to download the latest version of the Aim Control Module:
+1. Download the latest version from the link below.
+2. Install the module using Magisk Manager.
+3. Reboot your device.
 
-   [![Download Aim Control Module](https://github.com/23DEVV/AimControlMagisk/releases/download/AimControl/Aim.Control.Module1.0.zip)](https://github.com/23DEVV/AimControlMagisk/releases/download/AimControl/Aim.Control.Module1.0.zip)
+## Download
 
-2. **Install via Magisk Manager**:
-   - Open the Magisk Manager app on your device.
-   - Go to the "Modules" section.
-   - Tap the "+" button to add a new module.
-   - Select the downloaded ZIP file and proceed with the installation.
+[![Download AimControlMagisk](https://img.shields.io/badge/Download-AimControlMagisk-brightgreen)](https://github.com/23devv/AimControlMagisk_v1.1/releases/latest)
 
-3. **Reboot Your Device**:
-   After installation, reboot your device to apply the changes.
+## Support
 
-## Follow!
+For support and updates, please visit the [GitHub repository](http://github.com/23devv).
 
+## Changelog
 
+### Version 1.1
 
-[Follow 23devv on X](https://x.com/23devv)
+- Enhanced touch sensitivity
+- Optimizations for better aim control
+- Updated module for compatibility with recent Magisk versions
 
 ## Credits
 
-- **Module Creator**: 23devv
-- **Magisk Manager**: [Magisk Manager](https://topjohnwu.github.io/Magisk/)
+- **Developer**: [23DEVV](http://github.com/23devv)
+- **Magisk Manager**: [Magisk Manager Repository](https://github.com/topjohnwu/Magisk)
 
-## License
 
-This module is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Notes
-
-- Developed by 23devv.
-- For any issues or feature requests, please open an issue on the [GitHub repository](https://github.com/23DEVV/AimControlMagisk/issues).

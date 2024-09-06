@@ -17,7 +17,7 @@
 
 ## Download
 
-[![Download AimControlMagisk](https://img.shields.io/badge/Download-AimControlMagisk1.1-brightgreen)](https://github.com/23devv/AimControlMagisk_v1.1/releases/latest)
+[![Download AimControlMagisk](https://img.shields.io/badge/Download-AimControlMagisk-brightgreen)](https://github.com/23DEVV/AimControlMagisk/releases/download/AimControlMagiskv1.1/AimControlMagiskv1.1.zip)
 
 ## Support
 
@@ -31,9 +31,7 @@ For support and updates, please visit the [GitHub repository](http://github.com/
 - Optimizations for better aim control
 - Updated module for compatibility with recent Magisk versions
 
-## Credits:
+## Credits
 
 - **Developer**: [23DEVV](https://x.com/23devv))
 - **Magisk Manager**: [Magisk Manager Repository](https://github.com/topjohnwu/Magisk)
-
-

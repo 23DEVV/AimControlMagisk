@@ -33,5 +33,5 @@ For support and updates, please visit the [GitHub repository](http://github.com/
 
 ## Credits
 
-- **Developer**: [23DEVV](https://x.com/23devv))
+- **Developer**: [23DEVV](https://x.com/23devv)
 - **Magisk Manager**: [Magisk Manager Repository](https://github.com/topjohnwu/Magisk)

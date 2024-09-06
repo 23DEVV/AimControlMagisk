@@ -1,18 +1,25 @@
+#!/system/bin/sh
+
+# Basic configuration for the module
 SKIPMOUNT=false
 PROPFILE=false
 POSTFSDATA=false
 LATESTARTSERVICE=true
 
-print_modname() {
-  ui_print "*******************************"
-  ui_print "      Aim Control Module v1.0"
-  ui_print "*******************************"
+# Function to check the Magisk version
+check_magisk_version() {
+  if [ "$MAGISK_VER_CODE" -lt 21000 ]; then
+    abort "Magisk 21.0 or higher is required!"
+  fi
 }
 
-on_install() {
-  ui_print "Applying aim control settings..."
+# Function to clear system cache for optimal performance
+clear_cache() {
+  echo "Clearing system cache..."
+  rm -rf /data/cache/*
+  rm -rf /data/dalvik-cache/*
 }
 
-set_permissions() {
-  set_perm_recursive $MODPATH 0 0 0755 0644
-}
+# Execute functions during installation
+check_magisk_version
+clear_cache

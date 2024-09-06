@@ -1,12 +1,21 @@
 #!/system/bin/sh
 
-# Adjust pointer speed for better aim control
-settings put system pointer_speed 5
+# Monitor touch events using `getevent`
+monitor_touch_events() {
+  getevent -ql /dev/input/event2 | while read line; do
+    if echo "$line" | grep -q "ABS_MT_POSITION_Y"; then
+      Y=$(echo "$line" | awk '{print $NF}')
+      if [ "$Y" -gt 600 ]; then
+        input tap 500 600
+      fi
+    fi
+  done
+}
 
-# Reduce touch latency by adjusting specific kernel parameters
-echo 1 > /sys/class/touch/sync_control
-echo 5 > /proc/sys/kernel/sched_latency_ns
-echo 1 > /proc/sys/kernel/sched_rt_runtime_us
+# Log message to indicate the service has started
+echo "AimControlMagisk - Service started." > /data/local/tmp/aimcontrol.log
 
-# Optional: You can add more tweaks here for further control
+# Run the touch event monitor in the background
+monitor_touch_events &
+
 
